@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Repository Creator</title>
+</head>
+<body>
+    <h2>Create a New GitHub Repository</h2>
+
+    <form id="repoForm">
+        <label>
+            Repository Name:
+            <input type="text" id="repoName" required>
+        </label><br><br>
+
+        <label>
+            Description:
+            <inpu
